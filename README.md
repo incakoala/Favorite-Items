@@ -5,6 +5,7 @@ A simple webpage to add and save favorite items. Built with React Hooks.
 To view project:
 
 npm install
+
 npm start
 
 ![favorite-1](https://i.ibb.co/6mvSsSK/Screen-Shot-2020-05-12-at-3-44-43-PM.png)
